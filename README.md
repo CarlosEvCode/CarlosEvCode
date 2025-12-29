@@ -24,11 +24,8 @@
   <br>
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEvCode&show_icons=true&theme=tokyonight&hide_border=true"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEvCode&layout=compact&theme=tokyonight&hide_border=true"/>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosEvCode&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b27&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
     </a>
   </p>
 
