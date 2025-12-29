@@ -23,12 +23,5 @@
 
   <br>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CarlosEvCode&theme=dark&locale=es" alt="GitHub Streak" /></a>
-
-  <h3>📫 Conectemos</h3>
-  
-  <a href="https://www.youtube.com/@EvCodeLinux">
-    <img src="https://img.shields.io/badge/YouTube-Ver_Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   
 </div>
