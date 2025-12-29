@@ -23,11 +23,7 @@
 
   <br>
 
-  <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosEvCode&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b27&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-    </a>
-  </p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CarlosEvCode&theme=dark&locale=es" alt="GitHub Streak" /></a>
 
   <h3>📫 Conectemos</h3>
   
