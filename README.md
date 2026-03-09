@@ -4,11 +4,11 @@
   <h1>Hola, soy Carlos! 🐧</h1>
   
   <p>
-    Estudiante de <b>Ingeniería de Software con IA</b> | Creador de <b>EvCode</b> 📺
+    Estudiante de <b>Ingeniería de Software con IA
   </p>
 
   <p>
-     Me enfoco en el desarrollo de <b>herramientas de sistema</b>, <b>automatización con Python</b> y la preservación de software a través de la emulación.
+     Me enfoco en el desarrollo de <b>herramientas de sistema</b> y la preservación de software a través de la emulación.
   </p>
 
   <br>
