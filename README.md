@@ -4,11 +4,11 @@
   <h1>Hola, soy Carlos! 🐧</h1>
   
   <p>
-    Estudiante de <b>Ingeniería de Software con IA
+    Estudiante de <b>Ingeniería de Software con IA</b>
   </p>
 
   <p>
-     Me enfoco en el desarrollo de <b>herramientas de sistema</b> y la preservación de software a través de la emulación.
+     En <b>constante aprendizaje</b>, probando tecnologías y cosas nuevas 🚀
   </p>
 
   <br>
